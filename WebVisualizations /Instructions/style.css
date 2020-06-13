@@ -4,7 +4,7 @@
 
 /* Body */
 body {
-	background-image: url("https://c.wallhere.com/photos/1d/62/futuristic_cityscape_futuristic_city-215283.jpg!d");
+	background-image: url("https://get.wallhere.com/photo/1920x1200-px-architecture-bridge-buildings-cathedral-church-cityscape-clouds-Cologne-colors-Germany-photography-rhine-scenic-sky-Sun-sunlight-sunrise-sunset-1783587.jpg");
 	height: 850px;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -31,10 +31,10 @@ body {
 	background-color: white !important;
   }
   .dropdown-item {
-	color: #213159 !important;
+	color: pink !important;
   }
   .dropdown .dropdown-menu .dropdown-item:active, .dropdown .dropdown-menu .dropdown-item:hover {
-	background-color: #f04b4c !important;
+	background-color: gray !important;
   }
   
   .nav-link:hover {
@@ -42,7 +42,7 @@ body {
    }
   
   .navbar-brand:hover {
-  color: #f04b4c !important;
+  color: pink !important;
   }
   
   a {
@@ -97,11 +97,11 @@ body {
   
   /* Footer */
   footer {
-  background-color: #213159;
+  background-color: white;
   border-top-style: solid;
   border-top-width: 5px;
-  border-top-color: #f04b4c;
-  color: white;
+  border-top-color: pink;
+  color: black;
   min-height: 60px;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 12px;
